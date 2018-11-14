@@ -1,6 +1,6 @@
 # Cobol-Validar-Rut
 
-Programa Cobol que valida rut y retorna dígito verificador.
+Programa Cobol Validador Rut Chileno.
 
 # Entrada
   - WS-OPCION: De largo 1.  Corresponde a la opcion, si necesita validar rut (Opción 1) ó Retornar Dígito Verificador (Opción 2).
